@@ -1,0 +1,9 @@
+C:\Users\kaitt\source\repos\sfe\sfe\bin\Debug\sfe.exe.config
+C:\Users\kaitt\source\repos\sfe\sfe\bin\Debug\sfe.exe
+C:\Users\kaitt\source\repos\sfe\sfe\bin\Debug\sfe.pdb
+C:\Users\kaitt\source\repos\sfe\sfe\obj\Debug\sfe.csprojAssemblyReference.cache
+C:\Users\kaitt\source\repos\sfe\sfe\obj\Debug\sfe.Form1.resources
+C:\Users\kaitt\source\repos\sfe\sfe\obj\Debug\sfe.Properties.Resources.resources
+C:\Users\kaitt\source\repos\sfe\sfe\obj\Debug\sfe.csproj.GenerateResource.cache
+C:\Users\kaitt\source\repos\sfe\sfe\obj\Debug\sfe.exe
+C:\Users\kaitt\source\repos\sfe\sfe\obj\Debug\sfe.pdb
